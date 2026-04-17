@@ -9,6 +9,7 @@ public class WhileLoop {
         //while loop that continues printing "I love Java" til it iterates 5 times.
         while(i < 5) {
             System.out.println("I love Java");
+            i++;
         }
     }
 }
